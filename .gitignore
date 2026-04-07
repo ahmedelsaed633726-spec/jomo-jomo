@@ -365,6 +365,6 @@ FodyWeavers.xsd
 /x64/
 /Debug/
 /Release/
-!SFML-2.6.1-windows-vc17-64-bit/
+!SFML/
 !*.dll
 !*.lib
